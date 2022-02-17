@@ -1,6 +1,9 @@
 body {
     padding-bottom: 20px;
   }
+  .navbar-brand , .nav-link{
+    color: black;
+  }
 
   .bd-placeholder-img {
     font-size: 1.125rem;
