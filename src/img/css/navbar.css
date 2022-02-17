@@ -1,0 +1,48 @@
+body {
+    padding-bottom: 20px;
+  }
+
+  .bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+    .That{
+        margin-left: 250px;
+    }
+    .navbar-inner{
+        margin-top: -60px;
+        background: transparent;
+        color: black;
+    }
+    .that1{
+        margin-left: 20px;
+    }
+    .logo{
+        width: 200px;
+        height: 200px;
+        margin-left: -150px;
+    }
+
+  }  
+  @media (max-width: 767px){
+    .logo{
+        width: 300x;
+        height: 100px;
+        margin-left: -20px;
+    }
+
+  }
+
+  .navbar {
+    margin-bottom: 20px;
+  }
+  
