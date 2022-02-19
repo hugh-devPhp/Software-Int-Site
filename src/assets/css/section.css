@@ -1,0 +1,8 @@
+.smallpart{
+    background-color: dimgray; 
+    font-size: small; 
+    width: 70%;
+    margin-left: 15%;
+    padding: 0 10px 0 10px;
+    box-shadow: 6px 6px 0px;
+}
