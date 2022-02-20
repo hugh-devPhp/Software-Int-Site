@@ -1,0 +1,11 @@
+.pill{ 
+    height: 80px;
+    width: 80px;
+    
+}
+#contain_footer { 
+   margin-top:30px;
+}
+li{
+   list-style-type:none;
+}
