@@ -25,10 +25,17 @@ body {
     .navbar-inner{
         margin-top: -60px;
         background: transparent;
-        color: black;
     }
     .that1{
         margin-left: 20px;
+    }
+    .this{
+      color: white;
+      margin-top: 120px;
+    }
+    .butpri{
+      margin-left: 150px;
+      width: 150px;
     }
     .logo{
         width: 200px;
