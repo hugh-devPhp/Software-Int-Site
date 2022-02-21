@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Mon Feb 21 2022 14:42:48 GMT+0000 (heure moyenne de Greenwich)
+------------------------------------------------------
+
+Modified files:
+* index.html
+* src/assets/css/navbar.css
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:
