@@ -6,3 +6,53 @@
     padding: 0 10px 0 10px;
     box-shadow: 6px 6px 0px;
 }
+
+@media (min-width: 768px) {
+   .image1{
+       margin-top: 60px;
+       width: 1600px;
+       height: 650px;
+   }
+   .formea{
+       
+    border-radius: 15px;
+    background-color: rgb(126, 126, 126);
+    margin-left: 0px;
+    }
+   .forme1{
+
+       border-radius: 15px;
+       background-color: rgb(126, 126, 126);
+       margin-left: 10px;
+   }
+   .forme2{
+    border-radius: 15px;
+    background-color: rgb(126, 126, 126);
+    margin-left: 780px;
+    margin-top: -372px;
+}
+   .that{
+    width: 330px;
+    height: 290px;
+   }
+   .hat{
+    width: 330px;
+    height: 290px;
+    margin-left: 20px;
+   }
+   .test1{
+       margin-left: 50px;
+       font-size: 30px;
+   }
+   .test11{
+    margin-left: 50px;
+    font-size: 30px;
+    margin-left: 100px;
+}
+   .test2{
+       text-align: center;
+   }
+  }  
+  @media (max-width: 767px){
+    
+  }
